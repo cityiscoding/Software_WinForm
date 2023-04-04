@@ -264,9 +264,6 @@ C:\Project\qlksLast\PhanMemQuanLyKhachSan\bin\Debug\DangKy.cs
 C:\Project\qlksLast\PhanMemQuanLyKhachSan\bin\Debug\DangKy.Designer.cs
 C:\Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmDangKy.resources
 C:\Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmForgot.resources
-C:\Project_Work\Visual studio\Software_winform\PhanMemQuanLyKhachSan\bin\Debug\DangKy.resx
-C:\Project_Work\Visual studio\Software_winform\PhanMemQuanLyKhachSan\bin\Debug\DangKy.cs
-C:\Project_Work\Visual studio\Software_winform\PhanMemQuanLyKhachSan\bin\Debug\DangKy.Designer.cs
 C:\Project_Work\Visual studio\Software_winform\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe.config
 C:\Project_Work\Visual studio\Software_winform\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe
 C:\Project_Work\Visual studio\Software_winform\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.pdb
@@ -281,7 +278,6 @@ C:\Project_Work\Visual studio\Software_winform\PhanMemQuanLyKhachSan\obj\Debug\P
 C:\Project_Work\Visual studio\Software_winform\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatDichVu.resources
 C:\Project_Work\Visual studio\Software_winform\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatVatTu.resources
 C:\Project_Work\Visual studio\Software_winform\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmDangNhap.resources
-C:\Project_Work\Visual studio\Software_winform\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmDangKy.resources
 C:\Project_Work\Visual studio\Software_winform\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmForgot.resources
 C:\Project_Work\Visual studio\Software_winform\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmThongKe.resources
 C:\Project_Work\Visual studio\Software_winform\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmLienHe.resources
@@ -297,3 +293,4 @@ C:\Project_Work\Visual studio\Software_winform\PhanMemQuanLyKhachSan\obj\Debug\P
 C:\Project_Work\Visual studio\Software_winform\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.CopyComplete
 C:\Project_Work\Visual studio\Software_winform\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.exe
 C:\Project_Work\Visual studio\Software_winform\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.pdb
+C:\Project_Work\Visual studio\Software_winform\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmDangKy.resources

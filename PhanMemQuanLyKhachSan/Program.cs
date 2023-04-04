@@ -20,5 +20,9 @@ namespace PhanMemQuanLyKhachSan
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new frmDangNhap());
         }
+        public static void ExitApplication()
+        {
+            Application.Exit();
+        }
     }
 }

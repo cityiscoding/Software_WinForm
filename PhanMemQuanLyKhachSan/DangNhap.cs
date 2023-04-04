@@ -14,6 +14,7 @@ using System.Xml.Linq;
 
 namespace PhanMemQuanLyKhachSan
 {
+
     public partial class frmDangNhap : Form
     {
         public object Messagebox { get; private set; }
@@ -76,10 +77,7 @@ namespace PhanMemQuanLyKhachSan
         private void BtnDangNhap_Click(object sender, EventArgs e)
         {
 
-
-
-
-            string connection = @"Server=DESKTOP-BRSAPG5\SQLEXPRESS; Database=PMQLKS;Integrated Security=True";
+            string connection = @"Server=DESKTOP-E532F7N; Database=PMQLKS;Integrated Security=True";
             SqlConnection con = new SqlConnection(connection);
             con.Open();
             SqlCommand cmd = new SqlCommand("select * from MatKhau where username='" + txtTenDangNhap.Text + "'", con);
@@ -116,11 +114,12 @@ namespace PhanMemQuanLyKhachSan
         {
             txtTenDangNhap.Text = "";
             txtMatKhau.Text = "";
+            
         }
         private void btnDangKy_Click(object sender, EventArgs e)
         {
             frmDangKy frmDangKy = new frmDangKy();
-            this.Hide();
+            this.Visible = false;
             frmDangKy.Show();
         }
 
@@ -190,15 +189,8 @@ namespace PhanMemQuanLyKhachSan
 
         private void frmDangNhap_FormClosing(object sender, FormClosingEventArgs e)
         {
-            if (MessageBox.Show("Thoát ứng dụng?", "", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.No)
-            {
-                e.Cancel = true;
-            }
-        }
-
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
-            pictureBox1.Text = "Hello World!";
+                Application.Exit();
+                Program.ExitApplication();
         }
     }
 }
